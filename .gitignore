@@ -1,0 +1,5 @@
+# 公开仓库默认不收集任何运行时/本地目录
+.openclaw/
+node_modules/
+.DS_Store
+memory/
